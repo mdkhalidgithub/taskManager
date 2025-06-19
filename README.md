@@ -2,6 +2,9 @@
 
 A modern, fullstack Task Manager application built with React (Vite + Tailwind CSS) for the frontend and Node.js, Express, and MongoDB for the backend. Features user authentication, task CRUD, and JWT-based security.
 
+![image](https://github.com/user-attachments/assets/85b74f5a-11cf-4f11-b1f1-4dbcf1fd1fc7)
+
+
 ---
 
 ## Features
